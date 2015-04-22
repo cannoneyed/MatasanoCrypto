@@ -35,6 +35,4 @@ func main() {
 
 	}
 
-	// fmt.Println(b1)
-
 }
